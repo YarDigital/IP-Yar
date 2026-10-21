@@ -10,18 +10,11 @@ The developer does not collect, receive, store or sell any personal data. The ex
 
 ## Data stored on your device
 
-The extension saves only these settings in your browser (`chrome.storage.local`): interface language, theme, last opened tab and panel position. This data never leaves your device and is removed when you uninstall the extension.
+The extension saves only these settings in your browser: interface language, theme, last opened tab and panel position. This data never leaves your device and is removed when you uninstall the extension.
 
 ## Third-party services
 
-To work, the extension sends requests directly from your browser to these public services:
-
-- `api.ipify.org` and `api6.ipify.org`: to detect your public IPv4 and IPv6 address.
-- `ipwho.is`: to get location and ISP details for an IP address.
-- `dns.google`: to get DNS records for a domain you enter.
-- `bash.ws`: to detect which DNS servers your browser uses.
-- `flagcdn.com`: to load country flag images.
-- Google Fonts: to load the interface fonts.
+To work, the extension sends requests directly from your browser to public third-party online services. These include services that detect your public IP address, services that provide location and ISP details for an IP address, a public DNS service that returns the DNS records of a domain you enter, a test service that detects which DNS servers your browser uses, and services that provide country flag images and web fonts.
 
 These services can see your IP address and the IP addresses or domains you look up, in the same way any website you visit can. They are operated by third parties and their own privacy policies apply. The developer does not receive this data.
 
@@ -31,11 +24,10 @@ The "Support / Report a problem" button only opens your own email app with a pre
 
 ## Permissions
 
-- `storage`: save the settings above.
-- `scripting` and `activeTab`: open the panel on the current page when you click the extension icon.
-- Access to the services listed above: to show the IP, ISP, DNS and domain information.
+- Storage: to save the settings above.
+- Scripting and active tab: to open the panel on the current page when you click the extension icon.
 
-The extension does not read your browsing history, page content, passwords or form data.
+The extension does not request access to websites, and it does not read your browsing history, page content, passwords or form data.
 
 ## Changes
 

@@ -19,7 +19,10 @@
 
 ## Availability
 
-IP Yar is coming soon to Microsoft Edge Add-ons, the Chrome Web Store and Firefox Add-ons.
+## Availability
+
+- **Firefox:** [Get IP Yar on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ip-yar/)
+
 
 ## Privacy
 

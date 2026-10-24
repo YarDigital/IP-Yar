@@ -19,8 +19,6 @@
 
 ## Availability
 
-## Availability
-
 - **Firefox:** [Get IP Yar on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ip-yar/)
 
 

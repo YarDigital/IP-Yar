@@ -15,12 +15,11 @@
 - **Location data:** country, city, region, timezone, latitude, longitude and postal code (approximate).
 - **DNS servers:** see which DNS servers your browser is using.
 - **IP lookup and domain lookup:** check any IP address, or see a domain's IP, ISP and DNS records.
-- **Light and dark themes**, English and Persian interface.
+- **Light and dark themes**, 10 interface languages (English, Persian, Arabic, French, Russian, German, Chinese, Hindi, Spanish, Brazilian Portuguese).
 
 ## Availability
 
-- **Firefox:** [Get IP Yar on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ip-yar/)
-
+IP Yar is coming soon to Microsoft Edge Add-ons, the Chrome Web Store and Firefox Add-ons.
 
 ## Privacy
 

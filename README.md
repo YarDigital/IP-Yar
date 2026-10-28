@@ -19,8 +19,7 @@
 
 ## Availability
 
-IP Yar is coming soon to Microsoft Edge Add-ons, the Chrome Web Store and Firefox Add-ons.
-
+- **Firefox:** [Get IP Yar on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ip-yar/)
 ## Privacy
 
 IP Yar has no accounts, no analytics and no tracking. Read the full [Privacy Policy](PRIVACY.md).

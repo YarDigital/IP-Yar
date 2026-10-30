@@ -20,6 +20,7 @@
 ## Availability
 
 - **Firefox:** [Get IP Yar on Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ip-yar/)
+- **Edge:** [Get IP Yar on Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/ip-yar-ip-checker/fckknkmfedohngogaboehngjadlojidp)
 ## Privacy
 
 IP Yar has no accounts, no analytics and no tracking. Read the full [Privacy Policy](PRIVACY.md).
